@@ -1,6 +1,6 @@
 module {
     "name": "collections",
-    "description": "Utility functions that pertain to primitive collections (i.e. objects and arrays)",
+    "description": "Utility functions that pertain to both of the two native collection types (i.e. objects and arrays)",
     "author": "Travis C. LaGrone",
     "email": "Travis.LaGrone@Trintech.com",
     "company": "Trintech"
