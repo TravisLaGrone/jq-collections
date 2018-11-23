@@ -2,8 +2,7 @@ module {
     "name": "collections",
     "description": "Utility functions that pertain to both of the two native collection types (i.e. objects and arrays)",
     "author": "Travis C. LaGrone",
-    "email": "Travis.LaGrone@Trintech.com",
-    "company": "Trintech"
+    "email": "LaGrone.T@gmail.com"
 };
 
 
